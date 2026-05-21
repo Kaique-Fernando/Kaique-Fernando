@@ -17,11 +17,11 @@ Always learning, always improving.
 
 I'm in the phase of building and sharing projects to showcase my skills. If you'd like to connect or collaborate, feel free to reach out via LinkedIn (link below).
 
-## Skills & Technologies
+## 🚀 Tech Stack
 
-git,github,vscode,cursor,js,nodejs,docker,linux,devops,kubernetes,golang,java
-
-## Connect with Me
+JavaScript • Node.js • Go • Java  
+Docker • Kubernetes • Linux • DevOps  
+Git • GitHub • VS Code • Cursor
 
 ### Connect with Me 🤝
 
