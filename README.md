@@ -14,7 +14,6 @@ Always learning, always improving.
 - **Name:** Kaique Fernando
 - **GitHub:** [Kaique-Fernando](https://github.com/Kaique-Fernando)
 - **Joined GitHub:** April 11, 2023
-- **Location / Company / Bio:** Not provided yet
 
 I'm in the phase of building and sharing projects to showcase my skills. If you'd like to connect or collaborate, feel free to reach out via LinkedIn (link below).
 
